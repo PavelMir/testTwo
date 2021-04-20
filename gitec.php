@@ -1,17 +1,16 @@
 <?php
 1. Пишем первый код - индекс - комитт
-commit 8cdb19cf833ea98491ff7a7cc7d69c4059de1d84 (HEAD -> master)
+
 2.Меняем код - индекс - коммит
 8.Переключились на мастер
-commit 5038f1cecd030943f31b7bb299f5029a3d8fa957 (HEAD -> master)
-Author: PavelMir <mironpavel123@gmail.com>
-Date:   Tue Apr 20 00:27:44 2021 +0300
 
-    second master commit
+3.Создаем новую ветку  git checkout -b second_branch
 
-commit 8cdb19cf833ea98491ff7a7cc7d69c4059de1d84
-Author: PavelMir <mironpavel123@gmail.com>
-Date:   Tue Apr 20 00:25:48 2021 +0300
+4.Меняем код - индекс - коммит
+
+5.Меняем код - индекс - коммит
+
+second_branch
 
     first master commit
 9.Делаем еще один коммит и создаем ветку stashed branch
